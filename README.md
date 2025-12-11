@@ -1,7 +1,7 @@
 # Sepwater
 Beyond Direct Embedding: Secure Separable Latent Space Watermarking for Anti-Screen-Shooting
 
-< img src="[images/1.png](https://github.com/narobto/dasd/blob/08c87a421f1a2b19514ea5fafd4ef92354c74ce7/1.jpg)">
+< img src="https://github.com/narobto/dasd/blob/08c87a421f1a2b19514ea5fafd4ef92354c74ce7/1.jpg">
 
 
 # Dependencies and Installation
